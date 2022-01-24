@@ -1,0 +1,74 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: rgb(14, 12, 12);
+    font-family: 'Prata', serif;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Prata', serif;
+}
+
+span {
+    margin-top: 15px;
+    margin-left: 30px;
+    color: white;
+    font-family: 'Prata', serif;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    color: inherit;   
+    font-family: 'Prata', serif;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+a {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 120px;
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.contact1 {
+    margin-top: 15px;
+}
+
+.section1 {
+    color:white;
+    background-color: rgb(14, 12, 12);
+}
+
+img {
+    
+    max-width: 300px;
+    margin-left: 60px;
+    margin-top: 36px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+h2 {
+    margin-left: 60px;
+}
+
+p {
+    color: grey;
+    margin-left: 60px;
+}
